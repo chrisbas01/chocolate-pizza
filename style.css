@@ -1,0 +1,39 @@
+.banner-img {
+    display: inline;
+ z-index: -1;   
+ position: absolute;
+}
+
+ul {
+    justify-content:center;
+    display: inline-block;
+    justify-content: space-around;
+}
+
+button {
+    background-color: red;
+    color: antiquewhite;
+    height: 50px;
+    justify-content: center;
+
+}
+h2  {
+    margin-top: auto;
+    margin-bottom: auto;
+    -moz-text-decoration-style: none;
+}
+
+header {
+    border-bottom: 10px solid gray;
+}
+footer {
+    display: block;
+    border-top: 10px solid gray;
+    justify-content: baseline;
+    margin-top: auto;
+}
+main {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
